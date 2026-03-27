@@ -2,14 +2,14 @@
 
 A modern, responsive, and professional corporate website for **ElektraServe Energy Services Private Limited**. This application is built to elegantly showcase the company's electrical infrastructure expertise, substation construction capabilities, and the core vision of its founder, Ketan Gandhi.
 
-## 🚀 Technologies Used
+## 🚀 Technologies & Dependencies
 
-- **Framework**: React 19 (via Vite)
-- **Styling**: Tailwind CSS 3
-- **Animations**: Framer Motion
-- **Routing**: React Router DOM
-- **Icons**: Lucide React
-- **Scroll**: React Scroll
+- **Framework**: `react` (^19.0.0), `react-dom` (^19.0.0) built via `vite` (^6.0.0).
+- **Styling Engine**: `tailwindcss` (^3.4.17) via PostCSS.
+- **Animations**: `framer-motion` (^12.4.7) for all scroll, entrance, and gesture animations.
+- **Routing**: `react-router-dom` (^7.2.0) powering the dynamic project portfolio and SPA navigation.
+- **Iconography**: `lucide-react` (^0.476.0) for consistent, scalable corporate iconography.
+- **In-Page Navigation**: `react-scroll` (^1.9.3) for smooth scrolling anchor links across the main landing page.
 
 ## ✨ Key Features
 
